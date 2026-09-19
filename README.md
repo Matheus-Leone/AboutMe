@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor de Software Júnior | Java & Spring Boot
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela FACENS** e estou em busca de uma oportunidade profissional na área de **Desenvolvimento de Software**.
+Sou formado em **Análise e Desenvolvimento de Sistemas pela UNIFACENS** e estou em busca de uma oportunidade profissional na área de **Desenvolvimento de Software**.
 
 Tenho interesse principalmente em **desenvolvimento backend**, com foco em **Java, Spring Boot e APIs REST**, além de experiência prática em projetos acadêmicos e pessoais envolvendo desenvolvimento web, mobile e bancos de dados.
 
@@ -88,7 +88,7 @@ Projeto desenvolvido utilizando **Java e Spring Boot**, com foco no desenvolvime
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas — Centro Universitário FACENS**
+**Análise e Desenvolvimento de Sistemas — Centro Universitário UNIFACENS**
 
 ---
 
